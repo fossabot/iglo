@@ -3,6 +3,7 @@
 API blueprint's formatter.
 
 [![Build Status](https://travis-ci.org/subosito/iglo.svg?branch=master)](https://travis-ci.org/subosito/iglo)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftalrasha%2Figlo.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftalrasha%2Figlo?ref=badge_shield)
 
 ## Status
 
@@ -98,3 +99,7 @@ The iglo `ParseMarkdown` requires [drafter](https://github.com/apiaryio/drafter)
 ## Related Projects
 
 - [github.com/peterhellberg/hiro](https://github.com/peterhellberg/hiro) : Allows you to generate HTML output as a file. Similar with the demo example but with more options.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftalrasha%2Figlo.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftalrasha%2Figlo?ref=badge_large)
